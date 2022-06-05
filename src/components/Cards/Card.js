@@ -209,7 +209,7 @@ import cake2 from '.././../photo/cake2.jpg';
     </p>
   </div>
 </article>
-<article class="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center pa3 ">
+<article class="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center  ">
           <img src={cake2} class="db w-100 br2 br--top" alt=""/>
       <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
@@ -226,7 +226,7 @@ import cake2 from '.././../photo/cake2.jpg';
     </p>
   </div>
 </article>
-<article class="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center pa3 ">
+<article class="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center  ">
           <img src={cake2} class="db w-100 br2 br--top" alt=""/>
       <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
