@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cupcake/static/css/main.59290800.css",
-    "main.js": "/cupcake/static/js/main.cb97fd77.js",
+    "main.css": "/cupcake/static/css/main.3b7b0cbc.css",
+    "main.js": "/cupcake/static/js/main.cf42e95f.js",
     "static/media/video2.mp4": "/cupcake/static/media/video2.57d9c462e2a04d8ae9e2.mp4",
     "static/media/cake2.jpg": "/cupcake/static/media/cake2.47fc6b830ae4a87736ee.jpg",
     "static/media/cake1.jpg": "/cupcake/static/media/cake1.d29f409e5a04719586aa.jpg",
     "index.html": "/cupcake/index.html",
-    "main.59290800.css.map": "/cupcake/static/css/main.59290800.css.map",
-    "main.cb97fd77.js.map": "/cupcake/static/js/main.cb97fd77.js.map"
+    "main.3b7b0cbc.css.map": "/cupcake/static/css/main.3b7b0cbc.css.map",
+    "main.cf42e95f.js.map": "/cupcake/static/js/main.cf42e95f.js.map"
   },
   "entrypoints": [
-    "static/css/main.59290800.css",
-    "static/js/main.cb97fd77.js"
+    "static/css/main.3b7b0cbc.css",
+    "static/js/main.cf42e95f.js"
   ]
 }
