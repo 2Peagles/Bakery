@@ -1,4 +1,4 @@
-import { Footer } from "../components/Footer";
+
 function Contact ( ) {
   return ( 
     <>
@@ -24,7 +24,6 @@ function Contact ( ) {
     </div>
   </form>
 </main>
-<Footer/>
 </>
   )
 };

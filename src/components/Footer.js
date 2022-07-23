@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Footer = ( ) => {
   return (
-    <div>
-        <hr class="mt4"></hr>
+    <div className='footer'>
+        <hr class="mt6"></hr>
         <footer class="pv4 ph3 ph5-m ph6-l mid-gray">
             <small class="f6 db tc">© 2016 <b class="ttu">SOME COMPANY Inc</b>., All Rights Reserved</small>
              <div class="tc mt3">
