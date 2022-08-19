@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/cupcake/static/css/main.3b7b0cbc.css",
-    "main.js": "/cupcake/static/js/main.cf42e95f.js",
+    "main.css": "/cupcake/static/css/main.26a33741.css",
+    "main.js": "/cupcake/static/js/main.ef3e6fea.js",
     "static/media/video2.mp4": "/cupcake/static/media/video2.57d9c462e2a04d8ae9e2.mp4",
     "static/media/cake2.jpg": "/cupcake/static/media/cake2.47fc6b830ae4a87736ee.jpg",
-    "static/media/cake1.jpg": "/cupcake/static/media/cake1.d29f409e5a04719586aa.jpg",
+    "static/media/blue.jpg": "/cupcake/static/media/blue.550777d3eca517f4328b.jpg",
+    "static/media/pink.jpg": "/cupcake/static/media/pink.b840c7fd9808bba706c3.jpg",
+    "static/media/leaf.jpg": "/cupcake/static/media/leaf.6eeb0e4a923d4a74a657.jpg",
+    "static/media/wedding.jpg": "/cupcake/static/media/wedding.6b621dcf3e454233f488.jpg",
+    "static/media/fruit.jpg": "/cupcake/static/media/fruit.552c489eb569c5afb4d5.jpg",
+    "static/media/cakeitems.jpeg": "/cupcake/static/media/cakeitems.3bce08e5e5508566369d.jpeg",
+    "static/media/lemon.jpg": "/cupcake/static/media/lemon.af613d8a941c6266d2b9.jpg",
+    "static/media/smallcake.jpg": "/cupcake/static/media/smallcake.3e973d40c3599315e6eb.jpg",
     "index.html": "/cupcake/index.html",
-    "main.3b7b0cbc.css.map": "/cupcake/static/css/main.3b7b0cbc.css.map",
-    "main.cf42e95f.js.map": "/cupcake/static/js/main.cf42e95f.js.map"
+    "main.26a33741.css.map": "/cupcake/static/css/main.26a33741.css.map",
+    "main.ef3e6fea.js.map": "/cupcake/static/js/main.ef3e6fea.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b7b0cbc.css",
-    "static/js/main.cf42e95f.js"
+    "static/css/main.26a33741.css",
+    "static/js/main.ef3e6fea.js"
   ]
 }
