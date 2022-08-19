@@ -1,10 +1,10 @@
-
+import '../App.css';
 function Contact ( ) {
   return ( 
     <>
-    <main class="pa4 black-80 mt6 mb7">
-  <form class="measure center">
-    <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
+    <main class=" ">
+  <form class="">
+    <fieldset id="sign_up" class="ba b--transparent ph0 mh0 ">
       <legend class="f4 fw6 ph0 mh0">Contact Us</legend>
       <div class="mt3">
         <label class="db fw6 lh-copy f6" for="name">Name</label>

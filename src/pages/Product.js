@@ -2,11 +2,11 @@ import React from 'react';
 import '../App.css';
 import Card from '../components/Cards/Card';
 
-function Home( ) {
+function Product( ) {
     return (
-        <div>
+        <div>   
             <Card/>
         </div>
     );
   }
-  export default Home;
+  export default Product;
