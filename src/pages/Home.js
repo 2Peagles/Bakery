@@ -36,7 +36,7 @@ function Home( ) {
                     </p>
                     <p className='ma1'>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
                       nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                     <Link to='/contact'> <button className='pa3 ma1 bg-black white hover-light-blue br2 ttu'>Contact for info</button></Link>
+                     <Link to='/contact'> <button className='contactbtn pa3 ma1 bg-white hover-bg-black grow hover-light-blue br2 ttu'>Contact for info</button></Link>
               </div>
               <div className='about-img ma5'>
                 <img src={cake2} alt='...' className='about-img-home'/>

@@ -52,9 +52,9 @@ export default function NavBar ( ) {
        {/* desktop */}
             <div class="nav f6 fw6 ttu tracked pa4 fr ">
               <div class="overlay fr">
-               <Link class=" link hover-light-blue white mr3" to="/" path="Home">Home</Link>
-                <Link class="link hover-light-blue white mr3 " to="/product" path="Product">Products</Link>
-                <Link  class="link hover-light-blue white mr3" to="/contact" path="Contact">Contact</Link>
+                  <Link class=" link hover-light-blue white mr3" to="/" path="Home">Home</Link>
+                  <Link class="link hover-light-blue white mr3 " to="/product" path="Product">Products</Link>
+                  <Link  class="link hover-light-blue white mr3" to="/contact" path="Contact">Contact</Link>
                 </div>
             </div>
         <Routes>

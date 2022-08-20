@@ -1,9 +1,9 @@
 import React from 'react';
 import cake2 from '.././../photo/cake2.jpg';
 import blue from '.././../photo/blue.jpg';
-import fruit from '.././../photo/fruit.jpg';
+// import fruit from '.././../photo/fruit.jpg';
 import leaf from '.././../photo/leaf.jpg';
-import lemon from '.././../photo/lemon.jpg'; 
+// import lemon from '.././../photo/lemon.jpg'; 
 import pink from '.././../photo/pink.jpg'; 
 import wedding from '.././../photo/wedding.jpg'; 
 import smallcake from '.././../photo/smallcake.jpg'; 
@@ -45,7 +45,7 @@ import '../.././App.css';
     </p>
   </div>
 </article>
-<article class="br2 ba dark-gray b--black-10 mv5 w-100 w-50-m w-25-l mw5 center ">
+{/* <article class="br2 ba dark-gray b--black-10 mv5 w-100 w-50-m w-25-l mw5 center ">
           <img src={fruit} class="db w-100 br2 br--top" alt=""/>
       <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
@@ -58,11 +58,11 @@ import '../.././App.css';
     </div>
     <p>
     Lorem ipsum dolor sit amet, alia sanctus ea eam, eu sint scripta epicuri sea. Ius ipsum mundi 
-    urbanitas at, tantas partem causae eu mei, sit laudem laoreet no. Ea nam volutpat aliquando. 
+  
     </p>
   </div>
-</article>
-<article class="br2 ba dark-gray b--black-10 mv5 w-100 w-50-m w-25-l mw5 center ">
+</article> */}
+{/* <article class="br2 ba dark-gray b--black-10 mv5 w-100 w-50-m w-25-l mw5 center ">
           <img src={lemon} class="db w-100 br2 br--top" alt=""/>
       <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
@@ -77,7 +77,7 @@ import '../.././App.css';
     Lime
     </p>
   </div>
-</article>
+</article> */}
 <article class="br2 ba dark-gray b--black-10 mv5 w-100 w-50-m w-25-l mw5 center ">
           <img src={leaf} class="db w-100 br2 br--top" alt=""/>
       <div class="pa2 ph3-ns pb3-ns">
@@ -91,7 +91,7 @@ import '../.././App.css';
     </div>
     <p>
     Lorem ipsum dolor sit amet, alia sanctus ea eam, eu sint scripta epicuri sea. Ius ipsum mundi 
-    urbanitas at, tantas partem causae eu mei, sit laudem laoreet no. Ea nam volutpat aliquando. 
+    urbanitas at
     </p>
   </div>
 </article>
@@ -108,7 +108,7 @@ import '../.././App.css';
     </div>
     <p>
     Lorem ipsum dolor sit amet, alia sanctus ea eam, eu sint scripta epicuri sea. Ius ipsum mundi 
-    urbanitas at, tantas partem causae eu mei, sit laudem laoreet no. Ea nam volutpat aliquando. 
+    urbanitas at, tantas partem causae eu mei, sit laudem laoreet .
     </p>
   </div>
 </article>
@@ -141,7 +141,7 @@ import '../.././App.css';
     </div>
     <p>
     Lorem ipsum dolor sit amet, alia sanctus ea eam, eu sint scripta epicuri sea. Ius ipsum mundi 
-    urbanitas at, tantas partem causae eu mei, sit laudem laoreet no. Ea nam volutpat aliquando. 
+    urbanitas at, tantas partem causae eu mei.
     </p>
   </div>
 </article>
